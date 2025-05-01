@@ -1,2 +1,17 @@
 *patch
 tmp0
+node_modules
+
+.DS_Store
+*.log
+*.env
+*.local
+*.zip
+*.tar.gz
+*.tgz
+*.tar
+*.gz
+*.rar
+*.7z
+*.swp
+*.swo
